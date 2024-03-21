@@ -1,0 +1,13 @@
+okay so go into chatgpt type in:
+I am making a making generator in Python. I am going to need a story where the user give me some words. Can you give me the story and for all the words where the user has to give me words, make like this <word>
+then you will ask chatgpt again:
+make it less words please(do this until you like the size of the story)
+
+
+
+CHATGPT:
+In <city>, <name> discovered a <object> giving the ability to communicate with sea life. <He/She> journeyed to <underwater_city>, 
+where Marlins faced a <challenge>. Guided by a prophecy and aided by a loyal <sea_creature>, <name> overcame obstacles, 
+befriending skilled Marlins. After solving the <problem>, the underwater city celebrated with music and <underwater_light>. 
+Grateful, King <king_name> gifted <name> a precious <treasure>. <Name> returned to the surface, 
+leaving behind a legendary tale of friendship between land and sea.
